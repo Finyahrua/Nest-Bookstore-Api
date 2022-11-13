@@ -58,7 +58,6 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-
 ## Stay in touch
 
 - Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
@@ -68,5 +67,16 @@ $ npm run test:cov
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
 # Nest-Ecommerce-Api
-This is my attempt to create an ecommerce api using nestjs, it only for learing purpose
+
+This is my attempt to create an ecommerce api using nestjs, it only for learing purpose.
+the Api builds on four main modules namely:authentication, cart, products, and orders.
+
+## Creating modules
+
+To create a module, run the following command:
+
+```bash
+  nest g module <module-name>
+```
