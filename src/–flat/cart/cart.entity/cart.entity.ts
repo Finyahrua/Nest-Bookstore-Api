@@ -6,7 +6,7 @@ import {
   Column,
   PrimaryGeneratedColumn,
 } from 'typeorm';
-import { OrderEntity } from 'src/order/order.entity';
+import { OrderEntity } from 'src/order/order.entity';nest generate class order/order.entity –flat
 import { ProductEntity } from 'src/product/product.entity';
 import { Users } from 'src/auth/user.entity';
 
