@@ -1,14 +1,13 @@
 import {
   Entity,
-  OneToOne,
   ManyToOne,
   JoinColumn,
   Column,
   PrimaryGeneratedColumn,
 } from 'typeorm';
-import { OrderEntity } from 'src/order/order.entity';nest generate class order/order.entity –flat
-import { ProductEntity } from 'src/product/product.entity';
-import { Users } from 'src/auth/user.entity';
+// import { OrderEntity } from 'src/order/order.entity';
+import { ProductEntity } from 'src/–flat/product/product.entity/product.entity';
+import { Users } from 'src/–flat/auth/user.entity/user.entity';
 
 @Entity()
 export class CartEntity {
