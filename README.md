@@ -71,4 +71,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
-# Nest-Bookstore-Api
+# Nest-Ecommerce-Api
+This is my attempt to create an ecommerce api using nestjs, it only for learing purpose
